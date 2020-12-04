@@ -1,3 +1,4 @@
 [debug] not up to date. inChanged = true, force = false
 [debug] Updating ProjectRef(uri("file:/Users/attilavanderploeg/Documents/projects/Other/SimTest2/"), "simtest2")...
 [debug] Done updating ProjectRef(uri("file:/Users/attilavanderploeg/Documents/projects/Other/SimTest2/"), "simtest2")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
